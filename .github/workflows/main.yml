@@ -10,7 +10,5 @@ jobs:
     run-on: ubuntu-latest
 
     steps:
-      - name: 'Testing Githup action'
-        run: pwd
-
-      - name: 'Testint Printing'
+      - name: 'printing folder contents'
+        run: ls
