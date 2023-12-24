@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    run-on: ubuntu-latest
+    run-on: ubuntu
 
     steps:
       - name: 'Testing Githup action'
