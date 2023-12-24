@@ -14,4 +14,3 @@ jobs:
         run: pwd
 
       - name: 'Testint Printing'
-        run: echo AHmed  
